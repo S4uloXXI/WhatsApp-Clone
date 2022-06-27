@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsApp Clone</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="DDD">19</string>
+    <string name="_55">+55</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
+    <string name="todo">TODO</string>
+    <string name="telefone_hint">98371-4307</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/drawable/ic_check.xml" value="0.29" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/drawable/ic_edit.xml" value="0.29" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/activity_cadastro_usuario.xml" value="0.37916666666666665" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/activity_configuracao.xml" value="0.33" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/activity_validadorctivity.xml" value="0.37916666666666665" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/fragment_contatos.xml" value="0.31124412141941" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/fragment_conversas.xml" value="0.33" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/toobar.xml" value="0.33" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/toolbar.xml" value="0.33" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/layout/toolbar2.xml" value="0.31124412141941" />
+        <entry key="..\:/01_DEVELOPER/02_Apps/WhatsAppClone/app/src/main/res/menu/menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
